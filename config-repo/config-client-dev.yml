@@ -1,3 +1,3 @@
 server:
   port: 8543
-foo: foo version 4   看这次能不能找到到
+foo: foo version 5 不重启，更新配置文件信息
